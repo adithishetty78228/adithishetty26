@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="">
+        <meta name="author" content="TemplateMo">
+
+        <title>First Portfolio Bootstrap 5 Theme</title>
+
+        <!-- CSS FILES -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/bootstrap-icons.css" rel="stylesheet">
+
+        <link href="css/magnific-popup.css" rel="stylesheet">
+
+        <link href="css/templatemo-first-portfolio-style.css" rel="stylesheet">
+        
+<!--
+
+TemplateMo 578 First Portfolio
+
+https://templatemo.com/tm-578-first-portfolio
+
+-->
+    </head>
+    
+    <body>
+
+        <section class="preloader">
+            <div class="spinner">
+                <span class="spinner-rotate"></span>    
+            </div>
+        </section>
+
+        <nav class="navbar navbar-expand-lg">
+            <div class="container">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <a href="index.html" class="navbar-brand mx-auto mx-lg-0">MY PORTFOLIO</a>
+
+                <div class="d-flex align-items-center d-lg-none">
+                    <i class="navbar-icon bi-telephone-plus me-3"></i>
+                    <a class="custom-btn btn" href="#section_5">
+                    782-228-50074
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-lg-5">
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_1">Home</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_2">About</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_3">Certificates</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_4">Projects</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_5">Contact</a>
+                        </li>
+                    </ul>
+
+                    <div class="d-lg-flex align-items-center d-none ms-auto">
+                        <i class="navbar-icon bi-telephone-plus me-3"></i>
+                        <a class="custom-btn btn" href="#section_5">
+                            782-285-0074
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+
+        <main>
+
+            <section class="hero d-flex justify-content-center align-items-center" id="section_1">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-7 col-12">
+                            <div class="hero-text">
+                                <div class="hero-title-wrap d-flex align-items-center mb-4">
+                                    <img src= "https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/WhatsApp%20Image%202024-04-11%20at%2012.37.43_ef433185.jpg?alt=media&token=7e956c6b-fd16-4861-a887-ea5c15fc5552"="avatar-image avatar-image-large img-fluid" alt="">
+
+                                    <h1 class="hero-title ms-3 mb-0">Hello friend!</h1>
+                                </div>
+
+                                <h2 class="mb-4">I’m Adithi Shetty.</h2>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Web Developer</a></p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-5 col-12 position-relative">
+                            <div class="hero-image-wrap"></div>
+                            <img src="https://firebasestorage.googleapis.com/v0/b/adithi-d6f1b.appspot.com/o/WhatsApp%20Image%202024-04-15%20at%2019.38.28_91901f6d.jpg?alt=media&token=6f226cca-f930-48f6-ad42-bd295d73c131" class="hero-image img-fluid" alt="">
+                        </div>
+
+                    </div>
+                </div>
+
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#535da1" fill-opacity="1" d="M0,160L24,160C48,160,96,160,144,138.7C192,117,240,75,288,64C336,53,384,75,432,106.7C480,139,528,181,576,208C624,235,672,245,720,240C768,235,816,213,864,186.7C912,160,960,128,1008,133.3C1056,139,1104,181,1152,202.7C1200,224,1248,224,1296,197.3C1344,171,1392,117,1416,90.7L1440,64L1440,0L1416,0C1392,0,1344,0,1296,0C1248,0,1200,0,1152,0C1104,0,1056,0,1008,0C960,0,912,0,864,0C816,0,768,0,720,0C672,0,624,0,576,0C528,0,480,0,432,0C384,0,336,0,288,0C240,0,192,0,144,0C96,0,48,0,24,0L0,0Z"></path></svg>
+            </section>
+
+
+            <section class="about section-padding" id="section_2">
+                <div class="container">
+                    <div class="row">
+
+                        
+
+                            <div class="about-thumb">
+
+                                <div class="section-title-wrap d-flex justify-content-end align-items-center mb-8">
+                                    <h2 class="text-white me-8 mb-0">My Story</h2>
+
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/adithi-d6f1b.appspot.com/o/WhatsApp%20Image%202024-04-15%20at%2019.38.28_91901f6d.jpg?alt=media&token=6f226cca-f930-48f6-ad42-bd295d73c131" class="avatar-image img-fluid" alt="">
+                                </div>
+
+                                <h3 class="pt-2 mb-3">a little bit about Myself</h3>
+
+                                <p>I Adithi Shetty From SY CSE pursuing my degree from Sanjay Ghodawat University Kolhapur</p>
+
+                                <p>,I’m proud to say that I have maintained a 8.64 CGPA  throughout my academic career. I invite you to explore my protfolio and learn more about my acdemic achievements and experiences .My hobbies are dancing,listening to music,exploring new creativity ,painting  etc.I am a handworking person and loves to help people when they are in need .</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <section class="featured section-padding">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-6 col-12">
+                            <div class="profile-thumb">
+                                <div class="profile-title">
+                                    <h4 class="mb-0">Information</h4>
+                                </div>
+
+                                <div class="profile-body">
+                                    <p>
+                                        <span class="profile-small-title">Name</span> 
+                                        <span>Adithi Shetty</span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Birthday</span> 
+                                        <span>Sep 26, 2004</span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Phone</span> 
+                                         <span><a href="tel: 7822850074">7822850074</a></span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Email</span> 
+                                        <span><a href="adithishetty2601@gmail.com">adithishetty2601@gmail.com</a></span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6 col-12 mt-5 mt-lg-0">
+                            <div class="about-thumb">
+                                <div class="row">
+                                    <div class="col-lg-6 col-6 featured-border-bottom py-2">
+                                        <strong class="featured-numbers">1</strong>
+
+                                        <p class="featured-text">Intenship</p>
+                                        <a href="https://firebasestorage.googleapis.com/v0/b/adithi-d6f1b.appspot.com/o/WhatsApp%20Image%202024-04-17%20at%2008.32.28_68716c8b.jpg?alt=media&token=20c2dab9-bb3f-4c43-b60a-eeb315c78d3d" class="popup-image">
+                                            <img src="https://firebasestorage.googleapis.com/v0/b/adithi-d6f1b.appspot.com/o/WhatsApp%20Image%202024-04-17%20at%2008.32.28_68716c8b.jpg?alt=media&token=20c2dab9-bb3f-4c43-b60a-eeb315c78d3d" class="projects-image img-fluid" alt="">
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
+                                        <strong class="featured-numbers">1+</strong>
+
+                                        <p class="featured-text">certificates</p>
+                                        <a href="https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/WhatsApp%20Image%202024-05-13%20at%2018.38.24_9f11d215.jpg?alt=media&token=33f621c0-094d-4e15-ac15-ad9523a40f04" class="popup-image">
+                                            <img src="https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/WhatsApp%20Image%202024-05-13%20at%2018.38.24_9f11d215.jpg?alt=media&token=33f621c0-094d-4e15-ac15-ad9523a40f04" class="projects-image img-fluid" alt="">
+                                            </a>
+
+                                            <a href="https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/WhatsApp%20Image%202024-04-17%20at%2008.32.29_b6ed2d78.jpg?alt=media&token=f31456c1-2b3e-4bbb-b1ac-0893691f7b79" class="popup-image">
+                                                <img src="https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/WhatsApp%20Image%202024-04-17%20at%2008.32.29_b6ed2d78.jpg?alt=media&token=f31456c1-2b3e-4bbb-b1ac-0893691f7b79" class="projects-image img-fluid" alt="">
+                                                </a>
+     
+
+
+
+
+
+                                    </div>
+
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="clients section-padding"id="section_3">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col-lg-12 col-12">
+                            <h3 class="text-center mb-5">On Going Certificates</h3>
+                        </div>
+
+                        <div class="col-lg-2 col-4 ms-auto clients-item-height">
+                            <img src="https://tse2.mm.bing.net/th?id=OIP.Jfgq6_v3gqylklTDZWPLbgHaEk&pid=Api&P=0&h=220" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/html5-css3-js-icon-set-web-development-logo-icon-set-of-html-css-and-javascript-programming-symbol-free-vector.jpg?alt=media&token=85d3b489-3fc5-4d95-a899-afd905fec1fa" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="https://tse2.mm.bing.net/th?id=OIP.qYFK12ySmNftp3CsOEC2zAHaHZ&pid=Api&P=0&h=220" class="clients-image img-fluid" alt="">
+                           
+
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="https://tse2.mm.bing.net/th?id=OIP._Lm_T3scKhVEVFC54gcRxwHaE8&pid=Api&P=0&h=220" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="data:image/jpeg;base64,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" class="clients-image img-fluid" alt="">
+                        </div>
+
+
+                        
+                    </div>
+                </div>
+            </section>
+           
+            <section class="projects section-padding" id="section_4">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-8 col-md-8 col-12 ms-auto">
+                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
+                                <img src="https://firebasestorage.googleapis.com/v0/b/adithi-d6f1b.appspot.com/o/Screenshot%202024-03-25%20090015.png?alt=media&token=9cd7a54e-8850-4c21-9ab5-d33d1a741197" class="avatar-image img-fluid" alt="">
+
+                                <h2 class="text-white ms-4 mb-0">Projects</h2>
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Coding</small>
+
+                                    <h3 class="projects-title">C</h3>
+                                   
+            
+                                    <a href="https://github.com/adithishetty78228/Adithishettys/blob/main/tic.c">c Project on Tic Tac Toe</a>
+
+                                </div>
+
+                                <a href= class="popup-image">
+                                    <img src=class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Coding</small>
+
+                                    <h3 class="projects-title">C++</h3>
+                                    
+                                </a><a href="https://github.com/adithishetty78228/Adithishettys/blob/f749f1b107de39045355e83987beca0a18cf94a0/flappy.c%2B%2B">c++ project on Flappy Bird</a>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">PORTFOLIO</small>
+
+                                    <h3 class="projects-title"></h3>
+                                </a><a href="https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/index2.html.html?alt=media&token=5ec2b9e4-2ad0-4bf6-a898-74eb257b50ce">Demo</a>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Coding</small>
+
+                                    <h3 class="projects-title">HTML</h3>
+                                </a><a href="https://github.com/adithishetty78228/Adithishettys/blob/main/html.cc">html code on s3 bucket</a>
+                                </div>
+
+                            </div>
+                        </div>
+                                    
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section> 
+
+      
+ <section class="contact section-padding" id="section_5">
+                    <div class="container">
+                        <div class="row">
+                            <center> 
+                            <div class="col-lg-6 col-md-8 col-12">
+                            
+                                <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/adithi-87046.appspot.com/o/WhatsApp%20Image%202024-04-15%20at%2020.34.46_0d3b6d48.jpg?alt=media&token=918e31b9-eb86-4efa-bc1c-28de0d79b1a2" class="avatar-image img-fluid" alt="">
+
+                                    <h2 class="text-white ms-4 mb-0">Say Hi</h2>
+                                </div>
+                            </div>
+
+
+                            <center>
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Stay connected</strong>
+
+                                    <ul class="social-icon">
+                                        <li class="social-icon-item"><a href="https://x.com/adithis135?s=08" class="social-icon-link bi-twitter"></a></li>
+
+                                        <li class="social-icon-item"><a href="https://www.instagram.com/adithi_shetty_01?igsh=NjZtbTJuY2c0ZXli" class="social-icon-link bi-instagram"></a></li>
+
+                                        <li class="social-icon-item"><a href="https://pin.it/6wHkMwtmm" class="social-icon-link bi-pinterest"></a></li>
+
+                                        <li class="social-icon-item"><a href="https://github.com/adithishetty78228" class="social-icon-link bi-github"></a></li>
+
+                                        <li class="social-icon-item"><a href="https://www.linkedin.com/in/adithi-shetty-0b89a4273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="social-icon-link bi-linkedin"></a></li>
+
+
+                                        
+                                    </ul>
+
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Start a project</strong>
+
+                                    <p class="mb-0">I’m available for freelance projects</p>
+                                </div>
+                   </div>
+<center>
+                            <div class="col-lg-3 col-md-6 col-12 ps-lg-0">
+                                <div class="contact-info d-flex flex-column">
+                                    <strong class="site-footer-title d-block mb-3">About</strong>
+
+                                    <p class="mb-2">
+                                        Adithi is a professional web developer. Feel free to get in touch with me.
+                              </p>
+
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
+
+                                    <p>
+                                        <a href="adithishetty2601@gmail.com">
+                                            adithishetty2601@gmail.com  
+                                        </a>
+                                    </p>
+
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Call</strong>
+
+                                    <p class="mb-0">
+                                        <a href="tel: 7822850074">
+                                            7822850074
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-5 mt-lg-0">
+                                <form action="#" method="get" class="custom-form contact-form" role="form">
+                                    <div class="row">
+                                        
+                                            <div class="form-floating">
+                                                <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
+                                                
+                                                <label for="floatingInput">Name</label>
+                                            </div>
+
+                                        </div>
+                                            <div class="form-floating">
+                                                <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" pl
+
+                                        <aceholder="Email address" required="">
+                                                
+                                                <label for="floatingInput">Email address</label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-6 col-12">
+                                            <div class="form-floating">
+                                                <input type="text"Tell me about the project ="Tell me about the project"  class="form-control" placeholder="Tell me about the project" required="">
+                                                 <label for="floatingTextarea">Tell me about the project</label>
+                                                 <br>
+                                                 <button type="submit" class="form-control">Send</button>
+                                            </div>
+                                        </div>
+                                       
+                                     
+                                        
+                                    
+                                    </div>
+                                </form>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-12 col-12">
+                        <div class="copyright-text-wrap">
+                            <p class="mb-0">
+                                <span class="copyright-text">Copyright © 2036 <a href="#">First Portfolio</a> Company. All rights reserved.</span>
+                                Design: 
+                                <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </footer>
+
+        <!-- JAVASCRIPT FILES -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script src="js/click-scroll.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/magnific-popup-options.js"></script>
+        <script src="js/custom.js"></script>
+
+    </body>
+</html>
